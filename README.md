@@ -3,7 +3,7 @@
 - I’m currently working on a financial data platform (FastAPI, React, TimescaleDB)
 - I’m currently learning more about .NET backend development and data-driven systems
 - I’m looking to collaborate on web development projects (full-stack / APIs)
-- I’m looking for help with improving system architecture and best practices
+- I’m looking to help with improving system architecture and best practices
 - Ask me about web development, APIs, or building full-stack applications
 - How to reach me: philippe.clement1999@gmail.com
 - Fun fact: I also run a music studio and produce audio projects
